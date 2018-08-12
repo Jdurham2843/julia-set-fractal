@@ -1,4 +1,4 @@
-### Julia Set Fractal
+# Julia Set Fractal
 This is a tiny script (about 30 lines) that generates a simple fractal image.  
 
 The inspiration for the algorithm used came from [/r/dailyprogrammer][reddit-link] on reddit.
