@@ -1,7 +1,5 @@
 from PIL import Image
 
-from math import isclose
-
 WIDTH, HEIGHT = 1080, 720
 MIN, MAX = -1, 1
 THRESHOLD = 2
